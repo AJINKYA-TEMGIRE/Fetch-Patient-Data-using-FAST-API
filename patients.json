@@ -1,0 +1,122 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Rahul Sharma",
+    "age": 32,
+    "gender": "Male",
+    "height_cm": 175,
+    "weight_kg": 78,
+    "bmi": 25.5,
+    "blood_group": "B+",
+    "contact": {
+      "phone": "9876543210",
+      "email": "rahul.sharma@example.com"
+    },
+    "address": "Pune, Maharashtra",
+    "medical_history": ["Hypertension"],
+    "allergies": ["Penicillin"],
+    "current_medications": ["Amlodipine"],
+    "vitals": {
+      "blood_pressure": "130/90",
+      "heart_rate": 78,
+      "temperature_c": 36.7
+    },
+    "last_visit": "2026-04-10"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Sneha Patil",
+    "age": 28,
+    "gender": "Female",
+    "height_cm": 162,
+    "weight_kg": 55,
+    "bmi": 21.0,
+    "blood_group": "O+",
+    "contact": {
+      "phone": "9123456780",
+      "email": "sneha.patil@example.com"
+    },
+    "address": "Mumbai, Maharashtra",
+    "medical_history": ["Asthma"],
+    "allergies": ["Dust"],
+    "current_medications": ["Inhaler"],
+    "vitals": {
+      "blood_pressure": "120/80",
+      "heart_rate": 72,
+      "temperature_c": 36.5
+    },
+    "last_visit": "2026-03-22"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Amit Verma",
+    "age": 45,
+    "gender": "Male",
+    "height_cm": 168,
+    "weight_kg": 85,
+    "bmi": 30.1,
+    "blood_group": "A+",
+    "contact": {
+      "phone": "9988776655",
+      "email": "amit.verma@example.com"
+    },
+    "address": "Nagpur, Maharashtra",
+    "medical_history": ["Diabetes", "High Cholesterol"],
+    "allergies": [],
+    "current_medications": ["Metformin", "Atorvastatin"],
+    "vitals": {
+      "blood_pressure": "140/95",
+      "heart_rate": 82,
+      "temperature_c": 36.8
+    },
+    "last_visit": "2026-04-18"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Priya Deshmukh",
+    "age": 36,
+    "gender": "Female",
+    "height_cm": 158,
+    "weight_kg": 68,
+    "bmi": 27.2,
+    "blood_group": "AB+",
+    "contact": {
+      "phone": "9090909090",
+      "email": "priya.deshmukh@example.com"
+    },
+    "address": "Pune, Maharashtra",
+    "medical_history": ["Thyroid Disorder"],
+    "allergies": ["Seafood"],
+    "current_medications": ["Levothyroxine"],
+    "vitals": {
+      "blood_pressure": "125/85",
+      "heart_rate": 76,
+      "temperature_c": 36.6
+    },
+    "last_visit": "2026-04-01"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Karan Mehta",
+    "age": 50,
+    "gender": "Male",
+    "height_cm": 172,
+    "weight_kg": 90,
+    "bmi": 30.4,
+    "blood_group": "O-",
+    "contact": {
+      "phone": "9812345678",
+      "email": "karan.mehta@example.com"
+    },
+    "address": "Delhi, India",
+    "medical_history": ["Heart Disease"],
+    "allergies": ["None"],
+    "current_medications": ["Aspirin", "Beta Blockers"],
+    "vitals": {
+      "blood_pressure": "145/92",
+      "heart_rate": 85,
+      "temperature_c": 37.0
+    },
+    "last_visit": "2026-04-20"
+  }
+]
